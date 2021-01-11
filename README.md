@@ -1,6 +1,8 @@
 
 [![Build Status](https://dev.azure.com/ingmartinvarga/Fabrikam/_apis/build/status/mcbigmac.pipelines-java?branchName=master)](https://dev.azure.com/ingmartinvarga/Fabrikam/_build/latest?definitionId=1&branchName=master)
 
+# Test text
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
